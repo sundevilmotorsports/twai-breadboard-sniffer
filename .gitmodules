@@ -1,0 +1,4 @@
+[submodule "components/sdm-utils"]
+	path = components/sdm-utils
+	url = https://github.com/sundevilmotorsports/sdm-utils.git
+	branch = master
